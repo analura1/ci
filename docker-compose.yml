@@ -20,3 +20,4 @@ services:
             - "15632:80"
         depends_on:
             - postgres
+
